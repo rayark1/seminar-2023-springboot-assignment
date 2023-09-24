@@ -8,3 +8,4 @@ data class Song(
     val image: String,
     val duration: String,
 )
+
